@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F361A6</color>
+    <color name="colorPrimaryDark">#99004C</color>#AB125E
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWarning">#4374D9</color>
+    <color name="colorGray">#8C8C8C</color>
+    <color name="button_color">#DB8383</color>
+    <color name="CHKbutton_color">#540021</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="schedule_color">#D9418C</color>
+    <color name="toolbar_color">#CF3682</color>
+    <color name="Spinner_color">#FFE3FF</color>
+    <color name="item_background">#FFFFE5</color>
+</resources>
